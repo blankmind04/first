@@ -1,4 +1,4 @@
-# module code
+# Python line code
 
 import gradebook
 
@@ -44,7 +44,7 @@ if __name__ == "__main__":
     main()
 
 
-# Python line code
+# Module code
 
 
 #grade_book.py
